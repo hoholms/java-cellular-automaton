@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-cellular-automaton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_cellular_automaton_jar</output-path>
+    <root id="archive" name="java-cellular-automaton.jar">
+      <element id="module-output" name="java-cellular-automaton" />
+    </root>
+  </artifact>
+</component>
